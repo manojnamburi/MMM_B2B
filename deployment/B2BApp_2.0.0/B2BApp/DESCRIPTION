@@ -1,0 +1,16 @@
+Package: B2BApp
+Type: Package
+Title: Package for B2B UI App
+Version: 2.0.0
+Author: Sai Tarun Yadalam
+Maintainer: Sai Tarun Yadalam <saitarun.yadalam@alticeusa.com>
+Description: Provides function to generate Quarterly Budget Mix across Media based on input budget and Media Activity from Cross Channel
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0), tidyverse (>= 1.2.1)
+RoxygenNote: 6.1.1
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2022-04-07 17:10:09 UTC; SYADALAM
